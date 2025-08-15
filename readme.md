@@ -53,29 +53,29 @@ This project includes recommended VS Code extensions for an optimal development 
 
 ### Recommended Extensions (Order matches extensions.json)
 
-- [ESLint](vscode:extension/dbaeumer.vscode-eslint) - Code linting and error detection
-- [Prettier](vscode:extension/esbenp.prettier-vscode) - Code formatting
-- [EditorConfig](vscode:extension/EditorConfig.EditorConfig) - Consistent coding styles
-- [Code Spell Checker](vscode:extension/streetsidesoftware.code-spell-checker) - Spell checking for code and comments
-- [Color Highlight](vscode:extension/naumovs.color-highlight) - Highlight colors in CSS/code
-- [ES7+ React/Redux/React-Native snippets](vscode:extension/dsznajder.es7-react-js-snippets) - Useful React snippets
-- [Turbo Console Log](vscode:extension/ChakrounAnas.turbo-console-log) - Enhanced console.log functionality
-- [GitHub Copilot](vscode:extension/GitHub.copilot) - AI-powered code completion
-- [GitHub Copilot Chat](vscode:extension/GitHub.copilot-chat) - AI-powered chat for coding
-- [GitLens](vscode:extension/eamodio.gitlens) - Enhanced Git capabilities
-- [Better Comments](vscode:extension/aaron-bond.better-comments) - Improved comment highlighting
-- [Import Cost](vscode:extension/wix.vscode-import-cost) - Display import/require package sizes
-- [npm Intellisense](vscode:extension/christian-kohler.npm-intellisense) - Autocomplete npm modules
-- [Postman for VS Code](vscode:extension/Postman.postman-for-vscode) - API development and testing
-- [Codium](vscode:extension/Codium.codium) - Open-source alternative to VS Code
-- [Font Preview](vscode:extension/ctcuff.font-preview) - Preview fonts in VS Code
-- [TabNine](vscode:extension/TabNine.tabnine-vscode) - AI-powered code completion
+- [**ESLint**](vscode:extension/dbaeumer.vscode-eslint) - Code linting and error detection
+- [**Prettier**](vscode:extension/esbenp.prettier-vscode) - Code formatting
+- [**EditorConfig**](vscode:extension/EditorConfig.EditorConfig) - Consistent coding styles
+- [**Code Spell Checker**](vscode:extension/streetsidesoftware.code-spell-checker) - Spell checking for code and comments
+- [**Color Highlight**](vscode:extension/naumovs.color-highlight) - Highlight colors in CSS/code
+- [**ES7+ React/Redux/React-Native snippets**](vscode:extension/dsznajder.es7-react-js-snippets) - Useful React snippets
+- [**Turbo Console Log**](vscode:extension/ChakrounAnas.turbo-console-log) - Enhanced console.log functionality
+- [**GitHub Copilot**](vscode:extension/GitHub.copilot) - AI-powered code completion
+- [**GitHub Copilot Chat**](vscode:extension/GitHub.copilot-chat) - AI-powered chat for coding
+- [**GitLens**](vscode:extension/eamodio.gitlens) - Enhanced Git capabilities
+- [**Better Comments**](vscode:extension/aaron-bond.better-comments) - Improved comment highlighting
+- [**Import Cost**](vscode:extension/wix.vscode-import-cost) - Display import/require package sizes
+- [**npm Intellisense**](vscode:extension/christian-kohler.npm-intellisense) - Autocomplete npm modules
+- [**Postman for VS Code**](vscode:extension/Postman.postman-for-vscode) - API development and testing
+- [**Codium**](vscode:extension/Codium.codium) - Open-source alternative to VS Code
+- [**Font Preview**](vscode:extension/ctcuff.font-preview) - Preview fonts in VS Code
+- [**TabNine**](vscode:extension/TabNine.tabnine-vscode) - AI-powered code completion
 
 ### Optional Extensions
 
 - [**Better Comments**](vscode:extension/aaron-bond.better-comments) - Improved comment highlighting
-- [Font Preview](vscode:extension/ctcuff.font-preview) - Preview fonts in VS Code
-- [Postman for VS Code](vscode:extension/Postman.postman-for-vscode) - API development and testing
+- [**Font Preview**](vscode:extension/ctcuff.font-preview) - Preview fonts in VS Code
+- [**Postman for VS Code**](vscode:extension/Postman.postman-for-vscode) - API development and testing
 - [**Import Cost**](vscode:extension/wix.vscode-import-cost) - Display import/require package sizes
 - [**npm Intellisense**](vscode:extension/christian-kohler.npm-intellisense) - Autocomplete npm modules
 
