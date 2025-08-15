@@ -14,6 +14,10 @@
     // Optional extensions for enhanced development
     "aaron-bond.better-comments",
     "wix.vscode-import-cost",
-    "christian-kohler.npm-intellisense"
+    "christian-kohler.npm-intellisense",
+    "Postman.postman-for-vscode",
+    "Codium.codium",
+    "ctcuff.font-preview",
+    "TabNine.tabnine-vscode"
   ]
 }
