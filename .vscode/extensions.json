@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "dsznajder.es7-react-js-snippets",
+    "ChakrounAnas.turbo-console-log",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+
+    // Optional extensions for enhanced development
+    "aaron-bond.better-comments",
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense"
+  ]
+}
